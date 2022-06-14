@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "este es mi primer proyecto con Node",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikag3798/mi-primer-proyecto-de-node.git"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
+  "author": "Erika Guzñay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikag3798/mi-primer-proyecto-de-node/issues"
+  },
+  "homepage": "https://github.com/erikag3798/mi-primer-proyecto-de-node#readme"
+}
